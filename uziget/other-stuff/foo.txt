@@ -1,1 +1,1 @@
-.\lolMiner.exe -a GRAM --pool api-pool.gramcoin.org:443 --user UQBvLKd7IsKoB-pT89OBNKYpK1-ugvLF5335J3q8kRR8P8H0
+.\data\1.84\lolMiner.exe -a GRAM --pool api-pool.gramcoin.org:443 --user UQBvLKd7IsKoB-pT89OBNKYpK1-ugvLF5335J3q8kRR8P8H0
